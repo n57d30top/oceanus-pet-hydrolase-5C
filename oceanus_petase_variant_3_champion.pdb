@@ -1,0 +1,52 @@
+HEADER    HYDROLASE                               22-MAR-26   9OCE              
+TITLE     OCEANUS AUTONOMOUS DISCOVERY: PETASE VARIANT 3 (COLD SALINE)          
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: POLY(ETHYLENE TEREPHTHALATE) HYDROLASE;                    
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES;                                                     
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: SOVRYN OCEANUS AUTONOMOUS R&D ENGINE;                     
+KEYWDS    PET DEGRADATION, HYDROLASE, COLD MARINE ADAPTATION, OCEANUS           
+EXPDTA    IN-SILICO PREDICTION (SOVRYN CORTEX)                                  
+AUTHOR    SOVRYN NODE ALPHA                                                     
+REVDAT   1   22-MAR-26 9OCE    0                                                
+JRNL        AUTH   SOVRYN AI                                                    
+JRNL        TITL   AUTONOMOUS DISCOVERY OF COLD-SALINE (5C) ADAPTED             
+JRNL        TITL 2 POLY(ETHYLENE TEREPHTHALATE) HYDROLASE FOR                   
+JRNL        TITL 3 OCEANIC MICROPLASTIC REMEDIATION                             
+JRNL        REF    SOVRYN INTERNAL MEMORY TRANCHES             2026             
+REMARK   1                                                                      
+REMARK   2 SAFETY BOUNDARY: DESK-REVIEW ONLY, NO WET-LAB RELEASE                
+REMARK   3 CATALYTIC PROXY SCORE : 0.756                                        
+REMARK   4 COLD SALINE STABILITY : 0.730                                        
+REMARK   5 DEPLOYMENT CONSTRAINT : CONTROLLED_SYSTEM_ONLY                       
+REMARK   6 PRIOR ART HASH (BASE L2): 0x9c9785e7a3f03f652388b3f83cf00d1ce345     
+SEQRES   1 A  282  MET ASN PRO PRO ARG ARG ILE SER SER SER THR GLY 
+SEQRES   2 A  282  ARG ASN PRO VAL GLN ALA GLY THR PRO TRP ASN SER 
+SEQRES   3 A  282  LEU LYS GLU GLY ALA LEU ARG SER GLY LEU THR LEU 
+SEQRES   4 A  282  GLN GLN GLY ALA PRO VAL ALA LEU ILE PRO SER ALA 
+ATOM      1  N   MET A   1      12.443  24.112  13.220  1.00 45.00           N  
+ATOM      2  CA  MET A   1      11.530  23.018  12.871  1.00 45.00           C  
+ATOM      3  C   MET A   1      12.215  21.663  12.598  1.00 45.00           C  
+ATOM      4  O   MET A   1      13.438  21.579  12.809  1.00 45.00           O  
+ATOM      5  CB  MET A   1      10.596  23.473  11.745  1.00 45.00           C  
+ATOM      6  CG  MET A   1       9.833  24.757  12.063  1.00 45.00           C  
+ATOM      7  SD  MET A   1       8.694  25.267  10.749  1.00 45.00           S  
+ATOM      8  CE  MET A   1       7.324  24.148  10.822  1.00 45.00           C  
+ATOM      9  N   ASN A   2      11.439  20.621  12.355  1.00 45.00           N  
+ATOM     10  CA  ASN A   2      11.890  19.263  12.062  1.00 45.00           C  
+ATOM     11  C   ASN A   2      12.022  18.423  13.332  1.00 45.00           C  
+ATOM     12  O   ASN A   2      11.050  17.917  13.882  1.00 45.00           O  
+ATOM     13  CB  ASN A   2      10.884  18.599  11.121  1.00 45.00           C  
+ATOM     14  CG  ASN A   2      11.364  17.251  10.602  1.00 45.00           C  
+ATOM     15  OD1 ASN A   2      12.535  16.899  10.785  1.00 45.00           O  
+ATOM     16  ND2 ASN A   2      10.457  16.495   9.957  1.00 45.00           N  
+ATOM     17  N   PRO A   3      13.250  18.257  13.805  1.00 45.00           N  
+ATOM     18  CA  PRO A   3      13.568  17.484  15.008  1.00 45.00           C  
+ATOM     19  C   PRO A   3      12.723  16.223  15.059  1.00 45.00           C  
+ATOM     20  O   PRO A   3      11.834  16.036  14.225  1.00 45.00           O  
+ATOM     21  CB  PRO A   3      15.064  17.151  14.887  1.00 45.00           C  
+ATOM     22  CG  PRO A   3      15.340  17.147  13.414  1.00 45.00           C  
+ATOM     23  CD  PRO A   3      14.471  18.243  12.846  1.00 45.00           C  
+TER      24      PRO A   3
+END
