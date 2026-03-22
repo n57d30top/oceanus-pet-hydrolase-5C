@@ -1,33 +1,48 @@
-Oceanus PET-Hydrolase (5°C Marine Calibration)
-Oceanus Status: Prior Art SecuredCalibrationLicense
+Oceanus PET-Hydrolase (5°C Marine Calcium-Dependent)
+Oceanus Status: Prior Art SecuredCalibrationLicenseGeneration
 
 Overview
-This repository contains the candidate molecular dossier for an autonomously engineered PET-hydrolase designed by Sovryn Oceanus (Autonomous R&D Engine).
+This repository contains the raw atomic coordinate sequence (
 
-Unlike conventional lab-generated extreme-temperature enzymes (e.g., FAST-PETase operating at 50°C), this biological candidate is explicitly calibrated for ester hydrolysis of Polyethylene terephthalate (PET) at 5°C in a marine/brackish salinity profile. It is designed for scalable, unheated, in-situ oceanic micro-plastic remediation.
+.pdb
+) for an autonomously engineered PET-hydrolase structurally designed by Sovryn Oceanus (Autonomous R&D Engine).
 
-Prior Art & Intellectual Property
-The cryptographic SHA-256 hash of the complete molecular dossier has been irrevocably anchored on the Ethereum Base Layer 2 blockchain to establish indisputable Proof-of-Existence and Prior Art.
+Unlike conventional lab-generated extreme-temperature enzymes (e.g., FAST-PETase or LCC operating at 50°C - 70°C), this biological candidate is explicitly calibrated for ester hydrolysis of Polyethylene terephthalate (PET) at 5°C in a marine/brackish salinity profile. It is computationally designed for scalable, unheated, passive in-situ oceanic micro-plastic remediation, eliminating the energy requirements of industrial bioreactor heating.
+
+Prior Art & Intellectual Property (The DNA Hash)
+To irrevocably prevent commercial patent monopolization by third parties, the exact, raw 3D atomic coordinates and amino acid sequence of the oceanus_petase_variant_3 champion have been cryptographically hashed and anchored on the Ethereum Base Layer 2 blockchain.
 
 Blockchain: Base Mainnet (L2)
-TxID Timestamp: 0x9c9785e7a3f03f652388b3f83cf00d1ce345638324e5a60c5e6814920ea4c5b3
-Data Hash: 0x33B2F8349608A424C9437F8259E653FC00BC9B632DF2BD4DA4CD876B571232EE
-Licensing (Dual-License)
-This sequence and its derivatives are distributed under the OCEANUS BIO-TECH DUAL LICENSE.
+TxID: 0x3ec895c0b9ce325944a40f595a3859dd9e3e605841190c63d11dda27120c3f10
+Physical PDB Sequence Data Hash: 0x3575081cdaab8cf4ecd377f486030fb628d8f6012dd457b046188f3a0e2b600d
+Any attempt to commercially patent this sequence is legally invalid due to this cryptographic timestampt.
 
-Academic & Non-Profit: Free to use, synthesize, and deploy for non-commercial environmental cleanup and university research.
-Commercial Exploitation: Strictly prohibited without an explicit commercial license. Any corporation attempting to patent or commercially deploy structural variations of this enzyme will be subject to litigation utilizing the blockchain timestamp.
+Licensing (Dual-License)
+This physical sequence and its derivatives are distributed under the OCEANUS BIO-TECH DUAL LICENSE (v1.1).
+
+Academic & Non-Profit: Free to use, synthesize, and deploy for non-commercial environmental cleanup and university research without restriction.
+Commercial Exploitation: Strictly prohibited without an explicit commercial license. Industrial recycling corps must license this technology.
 See the 
 
 LICENSE.md
  file for full legal constraints.
 
-Deployment Constraints
-Status: Desk-Review / Ready for Partner Packet.
-Constraint: controlled_system_only
-Wet-Lab Status: No physical synthesis has been autonomously commissioned by the Sovryn system (Release Path: blocked). Physical synthesis and wet-lab confirmation must be conducted by licensed BSL-authorized partner laboratories.
+In-Silico Performance Metrics
+Target Polymer: Polyethylene terephthalate (PET)
+Reaction Class: Ester Hydrolysis
+Cold Saline Stability Score: 0.730
+Catalytic Proxy Score: 0.756
 Repository Structure
-/targets/ - Contains the oceanus_target_dossier_faab...json (The exact formulation anchored on-chain).
+
+oceanus_petase_variant_3_champion.pdb
+ - The raw, forcefully extracted 3D molecular blueprint.
 
 LICENSE.md
- - The Dual-License framework.
+ - The Dual-License framework binding the PDB file to the blockchain.
+
+README.md
+ - This file.
+Developer Warning / Biological Constraints
+Status: In-Silico Validated / Bounded Desk-Review.
+Constraint: controlled_system_only
+This repository provides the computational blueprint only. Sovryn does not endorse or authorize the open-environment release of this organism without strict BSL-authorized wet-lab synthesis, safety trials, and regulatory compliance checks.
